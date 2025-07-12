@@ -65,9 +65,9 @@ Here are some types of projects I work on or contribute to:
 ## 📫 Connect With Me
 
 
-- LinkedIn: [linkedin.com/in/your-profile](www.linkedin.com/in/godwin-oluowho-220747205) 
-- Email: [your.email@example.com](gamdev740@.email@.com)
+- LinkedIn: [www.linkedin.com/in/godwin-oluowho-220747205]
+- Email: [gamdev740@.email@.com]
 
 ---
 
-_“Great software is built with discipline, creativity, and a touch of obsession.” — GD_
+_“Great software is built with discipline, creativity, and a touch of obsession. OR  JUST OBSESSION ” — GD_
