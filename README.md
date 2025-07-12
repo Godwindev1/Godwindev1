@@ -26,7 +26,7 @@ Designing high-performance 3D simulations and rendering engines. Proficient in l
 - **C#, ASP.NET Core**, Razor Pages, Blazor
 - **JavaScript/TypeScript**, React, Node.js
 - **C++**, OpenGL, Vulkan, GLSL
-- **XAML / WinForms / WPF**
+
 
 ### 🎨 Frontend
 - React
@@ -45,7 +45,7 @@ Designing high-performance 3D simulations and rendering engines. Proficient in l
 - Visual Studio / VS Code
 - Docker / CLI / Bash
 - Postman / Swagger / LINQPad
-- Azure / Firebase (basic)
+- Azure / Firebase 
 
 ---
 
