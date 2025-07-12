@@ -66,7 +66,7 @@ Here are some types of projects I work on or contribute to:
 
 
 - LinkedIn: [linkedin.com/in/your-profile](www.linkedin.com/in/godwin-oluowho-220747205) 
-- Email: [your.email@example.com](gamdev740@.email@example.com)
+- Email: [your.email@example.com](gamdev740@.email@.com)
 
 ---
 
