@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with experience
 
 ---
 
-## 💼 About Me
+## 💼 Skills
 
 🔹 **Backend Engineering (ASP.NET Core)**  
 Building robust, scalable REST APIs and Razor Page applications using Entity Framework Core, Identity, and modern .NET practices.
